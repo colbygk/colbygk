@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=colbygk&include_all_commits=true&show_icons=true&theme=merko&count_private=true)](#)
+[![stats](https://github-readme-stats.vercel.app/api?username=colbygk&include_all_commits=true&show_icons=true&theme=graywhite&count_private=true)](#)
