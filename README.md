@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Colby GK's GitHub stats](https://github-stats-extended.vercel.app/api?username=colbygk&theme=codeSTACKr)](https://github.com/stats-organization/github-stats-extended)
+[![Colby GK's GitHub stats](https://github-stats-extended.vercel.app/api?username=colbygk&theme=highcontrast)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=colbygk&repo=scratchfoundation/scratch-www&show_owner=true&theme=highcontrast)](https://github.com/scratchfoundation/scratch-www)
